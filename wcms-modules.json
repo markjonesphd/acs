@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "fsm": {
+            "name": "fsm",
+            "repo": "https://github.com/markjonesphd/acs/blob/main/theme.php",
+            "zip": "https://github.com/markjonesphd/acs/blob/main/fsm.zip",
+            "summary": "Theme featuring traditional header and menu bar with added resources to aid customisation.",
+            "version": "1.0.0",
+            "image": "https://github.com/markjonesphd/acs/blob/main/sample.jpg"
+        }
+    }
+}
