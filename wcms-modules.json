@@ -3,11 +3,11 @@
     "themes": {
         "fsm": {
             "name": "fsm",
-            "repo": "https://github.com/markjonesphd/acs/blob/main",
-            "zip": "https://github.com/markjonesphd/acs/blob/main/fsm.zip",
+            "repo": "https://raw.githubusercontent.com/markjonesphd/acs/refs/heads/main",
+            "zip": "https://raw.githubusercontent.com/markjonesphd/acs/refs/heads/main/fsm.zip",
             "summary": "Theme featuring traditional header and menu bar with added resources to aid customisation.",
             "version": "1.0.0",
-            "image": "https://github.com/markjonesphd/acs/blob/main/sample.jpg"
+            "image": "https://raw.githubusercontent.com/markjonesphd/acs/refs/heads/main/sample.jpg"
         }
     }
 }
