@@ -35,7 +35,7 @@
 /*  header variables */	
 	--headerfontsize: 1em;
 	--titlefontsize: 1.2em;
-	--headerheight: 200px;
+	--headerheight: 220px;
 	--narrowheaderfontsize: 1em;
 	--narrowtitlefontsize: 1.2em;
 	--narrowheaderheight: 300px;
@@ -204,7 +204,7 @@ header h1 {
 	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 	font-size: var(--headerfontsize);
 	margin: 0;
-	padding: 0 5px 0 0;
+	padding: 0 50px 10px 0;
 	color: var(--pagetitle);
 	background-position: left top;
 	background-image: url(../images/headerwide.jpg);
@@ -370,7 +370,7 @@ header {
 header h1 {
 	min-height: 50px;
 	margin: 0px 20px 0px 10px;
-	padding: 2px;
+	padding: 20px;
 	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 	font-size:  var(--narrowheaderfontsize);
 	color: var(--pagetitle);
