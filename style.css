@@ -197,7 +197,7 @@ ul.menu {
 header {
 	text-align: right;
 	background-color: var(--headerbkgnd);
-/*	border-bottom: 1px solid var(--menutext);*/
+	border-bottom: 1px solid var(--menutext);
 }
 header h1 {
 	height: 14px;
