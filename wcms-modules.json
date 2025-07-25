@@ -1,5 +1,5 @@
 {
-    "version": 1.0.1,
+    "version": 1,
     "themes": {
         "fsm": {
             "name": "fsm",
@@ -7,7 +7,7 @@
             "zip": "https://raw.githubusercontent.com/markjonesphd/acs/refs/heads/main/fsm.zip",
             "summary": "Theme featuring traditional header and menu bar with added resources to aid customisation.",
             "version": "1.0.3",
-            "image": "https://raw.githubusercontent.com/markjonesphd/acs/refs/heads/main/wcms-modules.json/sample.jpg"
+            "image": "https://raw.githubusercontent.com/markjonesphd/acs/refs/heads/main/sample.jpg"
         }
     }
 }
