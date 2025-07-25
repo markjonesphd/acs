@@ -9,9 +9,9 @@
 	--pagedesc: #f9f9f9;
 	--pagedesbkgnd: #ffffff;
 	--menubkgnd: #ffffff;
-	--menubghvr: #999999;
-	--menutext: #36383F;
-	--menutxthvr: #f9f9f9;
+	--menubghvr: #FFD032; /* #999999;*/
+	--menutext: #0054A6; /* #36383F;*/
+	--menutxthvr: #0068FF; /* #f9f9f9;*/
 	--menubtn: #ffffff;/* #909090;*/
 	--maintop: #333333;
 	--maintext: #000000;
@@ -197,7 +197,7 @@ ul.menu {
 header {
 	text-align: right;
 	background-color: var(--headerbkgnd);
-	border-bottom: 1px solid var(--menutext);
+    border-bottom: 1px solid var(--menutext);
 }
 header h1 {
 	height: 14px;
@@ -267,7 +267,7 @@ ul.menu {
 	text-decoration: none;
 	padding: 0 25px;
 	color: var(--menutext);
-	/*border-bottom: 1px solid var(--menutext); */
+	border-bottom: 1px solid var(--menutext); 
 }
 .menu a:hover {
 	background-color: var(--menubghvr);
